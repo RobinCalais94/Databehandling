@@ -1,47 +1,31 @@
-Databehandling – Chicago Crime Analysis
-📊 Om projektet
+# Databehandling – Chicago Crime Analysis
 
-Detta projekt fokuserar på databehandling och analys av brottsdata från Chicago.
-Syftet har varit att utforska dataset, bearbeta data och dra insikter baserat på verklig information.
+## 📊 Om projektet
 
-🧠 Vad projektet innehåller
-Datainsamling från Chicago Crime dataset
-Rensning och strukturering av data
-Analys av brottstyper, områden och trender
-Visualisering av data för att identifiera mönster
+Analys av brottsdata från Chicago med fokus på databehandling, mönster och insikter.
 
-⚙️ Tekniker & verktyg
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+## ⚙️ Tekniker
 
-📁 Struktur
-robin_calais_databehandling.ipynb – huvudanalys
-Dataset 
-https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
-https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-📈 Analys & visualisering
+## 📁 Innehåll
 
-I projektet används datavisualisering för att:
+* `robin_calais_databehandling.ipynb` – analys
+* Dataset:
+  https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+  https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
 
-Identifiera de vanligaste brottstyperna
-Analysera geografiska skillnader
-Upptäcka tidsbaserade mönster
+## 📈 Analys
 
-Visualiseringar har skapats med Matplotlib och Seaborn för tydlig och insiktsfull presentation av data.
+* Brottstyper och frekvens
+* Geografiska skillnader
+* Tidsbaserade mönster
 
-🔍 Exempel på insikter
-Vilka brott som är vanligast förekommande
-Hur brott fördelas över olika områden
-Hur brottslighet förändras över tid
+## 🚀 Syfte
 
-🚀 Syfte
+Del av utbildning inom AI och maskininlärning för att utveckla färdigheter inom dataanalys.
 
-Projektet är en del av min utbildning inom AI och maskininlärning och syftar till att utveckla praktiska färdigheter inom dataanalys, databehandling och visualisering.
-
-👤 Författare
+## 👤 Författare
 
 Robin Calais
+
